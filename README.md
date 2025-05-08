@@ -44,7 +44,7 @@ graph TB
         RT_Strategy["Выбор стратегии поиска"]
     end
 
-    subgraph "ArachneDB Retriever"
+    subgraph "Notarius Retriever"
         DSL["DSL Запросы"]
         Hierarchy["Иерархическая фильтрация"]
         Semantic["Семантический поиск"]
